@@ -2,7 +2,7 @@
 
 # 💰 Prisma AI - Assistente Inteligente de Recuperação Financeira
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-success)
+![Status](https://img.shields.io/badge/Status-%20desenvolvido-success)
 ![Figma](https://img.shields.io/badge/Protótipo-Figma-blue)
 ![UX/UI](https://img.shields.io/badge/Design-UX%2FUI-purple)
 
