@@ -2,6 +2,8 @@
 
 # 💰 Prisma AI - Assistente Inteligente de Recuperação Financeira
 
+Link do Protótipo Navegável: https://www.figma.com/proto/RdZZkDAoIESwZ1p6xSftkp/PROJETO-3---FINAL--INTERFACE-E-J-DO-USUARIO?node-id=360-796&t=w2dkVPL4T0i3Soap-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
 ![Status](https://img.shields.io/badge/Status-%20desenvolvido-success)
 ![Figma](https://img.shields.io/badge/Protótipo-Figma-blue)
 ![UX/UI](https://img.shields.io/badge/Design-UX%2FUI-purple)
